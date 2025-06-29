@@ -1,6 +1,7 @@
 **Oracle of Pythmenia**
 
 **Story:**
+
 Long ago, the people of Pythmenia trusted their Oracle to guide them. Now, dark magic has twisted its power. The Oracle holds the villagers’ souls captive and refuses to set them free.
 
 **Your Mission:**
